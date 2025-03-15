@@ -6,3 +6,7 @@ Kategori bazlı yazılım bilgileri
 - **GoogleSearch** [Python] 
   - Google üzerinden yapılan aramaların listelenip CSV olarak kayıt altına alınması
   - Google News üzerinden yapılan aramaların listelenip CSV olarak kayıt altına alınması
+
+### Eklentiler
+- **Discord Webhook** [PHP]
+  - Wordpress yazılarınızı otomatik olarak Discord kanalınızda paylaşabilmeniz için oluşturulmuştur
