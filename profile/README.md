@@ -3,7 +3,6 @@ Yazılımları geliştiren ekibimizi ve yazılımları kurum bazlı listelemiş 
 ## Geliştirilmiş Kodlar
 Kategori bazlı yazılım bilgileri
 ### Veri Madenciliği
-- **GoogleSearch** [Python] - Google üzerinde yapılan aramaların listelenmesi ve CSV dosyası olarak kayıt altına alınmasını sağlayan, veri madenciliği için geliştirilmiş kodlar.
-  - *Doğu Akdeniz Üniversitesi*
-- **GoogleNewsSearch** [Python] - Google News sayfasında yapılan arama sonucunda gösterilen sayfaların bağlantılarını çıkarıp CSV dosyasına yazdıran, veri madenciliği için geliştirilmiş kodlar.
-  -  *Doğu Akdeniz Üniversitesi*
+- **GoogleSearch** [Python] 
+  - Google üzerinden yapılan aramaların listelenip CSV olarak kayıt altına alınması
+  - Google News üzerinden yapılan aramaların listelenip CSV olarak kayıt altına alınması
