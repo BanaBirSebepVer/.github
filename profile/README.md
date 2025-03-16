@@ -13,3 +13,5 @@ Kategori bazlı yazılım bilgileri
 ### Eklentiler
 - **[Discord Webhook](https://github.com/BanaBirSebepVer/webhookDiscord)** [PHP]
   - Wordpress yazılarınızı otomatik olarak Discord kanalınızda paylaşabilmeniz için oluşturulmuştur
+
+`#ffff00` TEST
