@@ -1,5 +1,8 @@
 # Bana Bir Sebep Ver
 Yazılımları geliştiren ekibimizi ve yazılımları kurum bazlı listelemiş bulunuyoruz. Her proje kendi ekip üyelerini barındırmaktadır.
+
+[Topluluk Bilgileri](https://github.com/BanaBirSebepVer/Topluluk)
+
 ## Geliştirilmiş Kodlar
 Kategori bazlı yazılım bilgileri
 ### [Veri Madenciliği ve Analiz](https://github.com/orgs/BanaBirSebepVer/teams/vma)
