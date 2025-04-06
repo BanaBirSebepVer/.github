@@ -15,5 +15,5 @@ Kategori bazlı yazılım bilgileri
   - Wordpress yazılarınızı otomatik olarak Discord kanalınızda paylaşabilmeniz için oluşturulmuştur
  
 ### Yayın
-- **[KanallarYoutube](https://github.com/BanaBirSebepVer/KanallarYoutube)**
-  - YouTube üzerinde yayınların tek ekradan görülebilmesi için hazırlanmış kodlar
+- **[Kanallar](https://github.com/BanaBirSebepVer/Kanallar)**
+  - Medya takibi yapmak isteyenler ve yayıncılar için oluşturulmuştur
