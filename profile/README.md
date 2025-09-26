@@ -3,6 +3,9 @@ Yazılımları geliştiren ekibimizi ve yazılımları kurum bazlı listelemiş 
 
 [Topluluk Bilgileri](https://github.com/BanaBirSebepVer/Topluluk)
 
+## Rehberler
+- [Öğrenciler için yapay zeka kullanma rehberi](Rehberler/%C3%96%C4%9Frenciler%20i%C3%A7in%20yapay%20zeka%20kullanma%20rehberi.md)
+
 ## Geliştirilmiş Kodlar
 Kategori bazlı yazılım bilgileri
 ### [Veri Madenciliği ve Analiz](https://github.com/orgs/BanaBirSebepVer/teams/vma)
